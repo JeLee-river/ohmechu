@@ -5,10 +5,10 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node build/init.js",
+    "start": "node ./build/init.js",
     "build:server": "babel src -d build",
     "build:assets": "webpack --mode=production",
-    "dev:assets": "webpack --mode==development -w",
+    "dev:assets": "webpack --mode=development -w",
     "dev": "nodemon",
     "assets": "webpack --mode=development",
     "build": "npm run build:server && npm run build:assets"
