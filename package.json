@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://kdt-gitlab.elice.io/sw_track/class_04/web_project/team17/ohmechu.git"
+    "url": "https://github.com/JeLee-river/ohmechu.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.21.0",
