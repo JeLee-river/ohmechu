@@ -17,7 +17,7 @@ node_modules/
 .env
 
 ###package.json
-package-lock.json
+# package-lock.json
 
 ###pdf
 *.pdf
