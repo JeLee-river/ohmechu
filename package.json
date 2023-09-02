@@ -5,10 +5,10 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./build/init.js",
+    "start": "node build/app.js",
     "build:server": "babel src -d build",
     "build:assets": "webpack --mode=production",
-    "dev:assets": "webpack --mode=development -w",
+    "dev:assets": "webpack --mode=development",
     "dev": "nodemon",
     "assets": "webpack --mode=development",
     "build": "npm run build:server && npm run build:assets"
@@ -33,6 +33,7 @@
     "js-base64": "^3.7.5",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.5",
+    "node-polyfill-webpack-plugin": "^2.0.1",
     "nodemon": "^3.0.1",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"
