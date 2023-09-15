@@ -19,9 +19,9 @@
 
 <br>
 
-[출처1-2022 통계로 보는 1인 가구(2022, 통계청)](https://kostat.go.kr/board.es?mid=a10301010000&bid=10820&tag=&act=view&list_no=422143&ref_bid=){:target="\_blank"}
+[출처1-2022 통계로 보는 1인 가구(2022, 통계청)](https://kostat.go.kr/board.es?mid=a10301010000&bid=10820&tag=&act=view&list_no=422143&ref_bid=)
 
-[출처2-"외식 물가·배달비 부담에 '밀키트' 찾는 소비자↑"(2023, 경기신문)](https://www.kgnews.co.kr/mobile/article.html?no=743717){:target="\_blank"}
+[출처2-"외식 물가·배달비 부담에 '밀키트' 찾는 소비자↑"(2023, 경기신문)](https://www.kgnews.co.kr/mobile/article.html?no=743717)
 
 <br>
 
@@ -101,7 +101,7 @@
 
 ### :art:Figma
 
-[**Figma 보러가기**:arrow_forward:](https://www.figma.com/file/FGOhDnY882fP7IrECS2mg8/%EC%98%A4%EB%8A%98%EC%9D%98-%EB%A9%94%EB%89%B4-%EC%B6%94%EC%B2%9C?type=design&node-id=0%3A1&mode=design&t=4bfXzc5QNGopWlFZ-1){:target="\_blank"}
+[**Figma 보러가기**:arrow_forward:](https://www.figma.com/file/FGOhDnY882fP7IrECS2mg8/%EC%98%A4%EB%8A%98%EC%9D%98-%EB%A9%94%EB%89%B4-%EC%B6%94%EC%B2%9C?type=design&node-id=0%3A1&mode=design&t=4bfXzc5QNGopWlFZ-1)
 
 <img src="https://res.cloudinary.com/dr26wooar/image/upload/v1694701096/ohmechu/ohmechuFigma.png" alt='Figma' width="240" height="427"/>
 
@@ -115,7 +115,7 @@
 
 ### :arrow_down:User Flow
 
-[**User Flow 보러가기**:arrow_forward:](https://miro.com/app/board/uXjVMSA3Tig=/?share_link_id=706623537216){:target="\_blank"}
+[**User Flow 보러가기**:arrow_forward:](https://miro.com/app/board/uXjVMSA3Tig=/?share_link_id=706623537216)
 
 <img width="700" height="558" src="https://res.cloudinary.com/dr26wooar/image/upload/v1694782319/ohmechu/Flowchart.jpg">
   
@@ -123,6 +123,6 @@
   
 ### :page_with_curl:API 문서
   
-[**API 문서 보러가기**:arrow_forward:](https://dent-ulna-126.notion.site/API-4ac1683866434513acc6439642924df2?pvs=4){:target="_blank"}
+[**API 문서 보러가기**:arrow_forward:](https://dent-ulna-126.notion.site/API-4ac1683866434513acc6439642924df2?pvs=4)
 
 <img width="700" height="336" src="https://res.cloudinary.com/dr26wooar/image/upload/v1694782651/ohmechu/API-Document.png">
