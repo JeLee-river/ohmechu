@@ -103,9 +103,7 @@
 
 [**Figma 보러가기**:arrow_forward:](https://www.figma.com/file/FGOhDnY882fP7IrECS2mg8/%EC%98%A4%EB%8A%98%EC%9D%98-%EB%A9%94%EB%89%B4-%EC%B6%94%EC%B2%9C?type=design&node-id=0%3A1&mode=design&t=4bfXzc5QNGopWlFZ-1)
 
-<img src="https://res.cloudinary.com/dr26wooar/image/upload/v1694701096/ohmechu/ohmechuFigma.png" alt='Figma' width="240" height="427"/>  
-  
-<embed style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFGOhDnY882fP7IrECS2mg8%2F%25EC%2598%25A4%25EB%258A%2598%25EC%259D%2598-%25EB%25A9%2594%25EB%2589%25B4-%25EC%25B6%2594%25EC%25B2%259C%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D4bfXzc5QNGopWlFZ-1">
+<img src="https://res.cloudinary.com/dr26wooar/image/upload/v1694701096/ohmechu/ohmechuFigma.png" alt='Figma' width="240" height="427"/>
 
 <br>
 
@@ -119,7 +117,7 @@
 
 [**User Flow 보러가기**:arrow_forward:](https://miro.com/app/board/uXjVMSA3Tig=/?share_link_id=706623537216)
 
-<img width="750" height="597" src="https://res.cloudinary.com/dr26wooar/image/upload/v1694782319/ohmechu/Flowchart.jpg">
+<img width="700" height="558" src="https://res.cloudinary.com/dr26wooar/image/upload/v1694782319/ohmechu/Flowchart.jpg">
   
 <br>  
   
@@ -127,4 +125,4 @@
   
 [**API 문서 보러가기**:arrow_forward:](https://dent-ulna-126.notion.site/API-4ac1683866434513acc6439642924df2?pvs=4)
 
-<img width="750" height="360" src="https://res.cloudinary.com/dr26wooar/image/upload/v1694782651/ohmechu/API-Document.png">
+<img width="700" height="336" src="https://res.cloudinary.com/dr26wooar/image/upload/v1694782651/ohmechu/API-Document.png">
