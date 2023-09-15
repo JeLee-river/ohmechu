@@ -111,7 +111,7 @@
 
 ### :file_folder:DB diagram
 
-<img src=https://res.cloudinary.com/dr26wooar/image/upload/v1694781109/ohmechu/DB-Schema.png alt='DB diagram' width="400" height="271"/>
+<img src=https://res.cloudinary.com/dr26wooar/image/upload/v1694781109/ohmechu/DB-Schema.png alt='DB diagram' width="700" height="318"/>
 
 <br>
 
@@ -119,7 +119,7 @@
 
 [**User Flow 보러가기**:arrow_forward:](https://miro.com/app/board/uXjVMSA3Tig=/?share_link_id=706623537216)
 
-<embed width="768" height="432" src="https://miro.com/app/live-embed/uXjVMSA3Tig=/?moveToViewport=-4398,-2346,7460,3750&embedId=911624518746">
+<img width="750" height="597" src="https://res.cloudinary.com/dr26wooar/image/upload/v1694782319/ohmechu/Flowchart.jpg">
   
 <br>  
   
@@ -127,4 +127,4 @@
   
 [**API 문서 보러가기**:arrow_forward:](https://dent-ulna-126.notion.site/API-4ac1683866434513acc6439642924df2?pvs=4)
 
-<embed src="https://documenter.getpostman.com/view/23359699/2s93Y2Thex" style="display: flex; color: inherit; text-decoration: none; user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; flex-grow: 1; min-width: 0px; flex-wrap: wrap-reverse; align-items: stretch; text-align: left; overflow: hidden; border: 1px solid rgba(55, 53, 47, 0.16); border-radius: 3px; position: relative; fill: inherit;">
+<img width="750" height="360" src="https://res.cloudinary.com/dr26wooar/image/upload/v1694782651/ohmechu/API-Document.png">
