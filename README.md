@@ -76,7 +76,7 @@
 | 이름                                         | 담당 업무            |
 | -------------------------------------------- | -------------------- |
 | [조정현](https://github.com/whThswh)         | 팀장/프론트엔드 개발 |
-| [이채연]                                     | 프론트엔드 개발      |
+| 이채연                                       | 프론트엔드 개발      |
 | [이주영](https://github.com/1004ljy980)      | 프론트엔드 개발      |
 | [장준희](https://github.com/junhui324)       | 백엔드 개발          |
 | [**이정은**](https://github.com/JeLee-river) | 백엔드 개발          |
@@ -105,7 +105,7 @@
 
 <img src="https://res.cloudinary.com/dr26wooar/image/upload/v1694701096/ohmechu/ohmechuFigma.png" alt='Figma' width="240" height="427"/>  
   
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFGOhDnY882fP7IrECS2mg8%2F%25EC%2598%25A4%25EB%258A%2598%25EC%259D%2598-%25EB%25A9%2594%25EB%2589%25B4-%25EC%25B6%2594%25EC%25B2%259C%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D4bfXzc5QNGopWlFZ-1" allowfullscreen></iframe>
+<embed style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFGOhDnY882fP7IrECS2mg8%2F%25EC%2598%25A4%25EB%258A%2598%25EC%259D%2598-%25EB%25A9%2594%25EB%2589%25B4-%25EC%25B6%2594%25EC%25B2%259C%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D4bfXzc5QNGopWlFZ-1">
 
 <br>
 
@@ -119,7 +119,7 @@
 
 [**User Flow 보러가기**:arrow_forward:](https://miro.com/app/board/uXjVMSA3Tig=/?share_link_id=706623537216)
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMSA3Tig=/?moveToViewport=-4398,-2346,7460,3750&embedId=911624518746" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>  
+<embed width="768" height="432" src="https://miro.com/app/live-embed/uXjVMSA3Tig=/?moveToViewport=-4398,-2346,7460,3750&embedId=911624518746">
   
 <br>  
   
@@ -127,4 +127,4 @@
   
 [**API 문서 보러가기**:arrow_forward:](https://dent-ulna-126.notion.site/API-4ac1683866434513acc6439642924df2?pvs=4)
 
-<a href="https://documenter.getpostman.com/view/23359699/2s93Y2Thex" target="_blank" rel="noopener noreferrer" style="display: flex; color: inherit; text-decoration: none; user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; flex-grow: 1; min-width: 0px; flex-wrap: wrap-reverse; align-items: stretch; text-align: left; overflow: hidden; border: 1px solid rgba(55, 53, 47, 0.16); border-radius: 3px; position: relative; fill: inherit;">
+<embed src="https://documenter.getpostman.com/view/23359699/2s93Y2Thex" style="display: flex; color: inherit; text-decoration: none; user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; flex-grow: 1; min-width: 0px; flex-wrap: wrap-reverse; align-items: stretch; text-align: left; overflow: hidden; border: 1px solid rgba(55, 53, 47, 0.16); border-radius: 3px; position: relative; fill: inherit;">
