@@ -2,8 +2,8 @@ import express, { json, urlencoded } from 'express';
 import cors from 'cors';
 import { mongoose } from 'mongoose';
 import cookieParser from 'cookie-parser'; //JWT 토큰 사용시 필요한 cookieParser
-
-require('dotenv').config();
+import dotenv from 'dotenv';
+dotenv.config();
 
 import { productsRouter } from './router/products-router.js';
 import { ordersRouter } from './router/orders-router.js';

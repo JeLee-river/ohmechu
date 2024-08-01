@@ -1,7 +1,8 @@
 import { authServices } from './auth-service.js';
 import jwt from 'jsonwebtoken';
 import { errorMessage } from '../misc/error-message.js';
-require('dotenv').config();
+import dotenv from 'dotenv';
+dotenv.config();
 
 const statusCode = {
   unauthorized: 401,

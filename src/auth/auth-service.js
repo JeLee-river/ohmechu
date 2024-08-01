@@ -1,6 +1,7 @@
 import jwt from 'jsonwebtoken';
 import { RefreshToken } from '../db/model/index.js';
-require('dotenv').config();
+import dotenv from 'dotenv';
+dotenv.config();
 
 //JWT 생성
 const authServices = {
